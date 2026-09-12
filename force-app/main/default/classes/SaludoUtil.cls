@@ -1,5 +1,5 @@
 public class SaludoUtil {
     public static String obtenerSaludo() {
-        return 'Hola desde mi org de practica';
+        return 'Hola desde mi org de practica'; // Version A - saludo actualizado
     }
 }
